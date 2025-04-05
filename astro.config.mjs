@@ -4,9 +4,11 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://zavy86.github.io',
+	base: 'awesome-product',
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Awesome Product',
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
