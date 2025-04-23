@@ -1,17 +1,12 @@
-# Starlight Starter Kit: Basics
+# Build a Static Website with Astro and GitHub Actions & Pages
+Have you created your **own digital product** and want to build a website to promote it online?  
+Would you like to create a **simple static landing page**, perhaps even with a **well-crafted documentation** section?
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+Then **Astro** and **GitHub** are the ideal solution for you!
 
-```
-npm create astro@latest -- --template starlight
-```
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/withastro/starlight&create_from_path=examples/basics)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwithastro%2Fstarlight%2Ftree%2Fmain%2Fexamples%2Fbasics&project-name=my-starlight-docs&repository-name=my-starlight-docs)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Complete Tutorial on YouTube
+[![astro-github-actions-pages](https://img.youtube.com/vi/4LblKbNUu0E/mqdefault.jpg)](https://youtu.be/4LblKbNUu0E "Crea un SITO WEB statico con ASTRO e GitHub ACTIONS ospitato GRATUITAMENTE su GitHub PAGES!")  
+[https://youtu.be/4LblKbNUu0E](https://youtu.be/4LblKbNUu0E)
 
 ## 🚀 Project Structure
 
